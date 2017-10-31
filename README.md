@@ -16,7 +16,7 @@
 
 ## 1. Installation [↑](https://github.com/abemelvin/tiamat)
 
-Tiamat does not require compilation which makes installation extremely simple. Just clone the Tiamat repository to your local machine by running `git clone https://github.com/abemelvin/tiamat.git` in your shell.
+Tiamat does not require compilation which makes installation extremely simple. Just clone the Tiamat repository to your local machine by running `git clone https://github.com/cmu-apt/aptcyberrange.git` in your shell.
 
 ## 2. Getting started [↑](https://github.com/abemelvin/tiamat)
 
